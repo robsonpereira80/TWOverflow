@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/robsonpereira80/"
+    "url": "https://github.com/robsonpereira80/TWOverflow"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
