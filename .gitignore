@@ -1,0 +1,4 @@
+node_modules
+dist
+cdn
+src/modules/*
